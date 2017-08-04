@@ -1,2 +1,3 @@
 # fun
-Testing
+This is the Readme file. 
+//Seb
