@@ -4,11 +4,11 @@
 **Looking forward to play around here**
 
 ```
-Displaying fun testcode 1234 in this readme. 
-Looks like it works just fine. 
+Displaying fun testcode 1234 in this readme
+Looks like it works just fine
 ```
 
-This Readme can also be reached via [link](http://fun.seb)fun.seb
+This Readme can also be reached via the [link](http://seb.fun) fun.seb
 
 Cheers,  
 Seb
