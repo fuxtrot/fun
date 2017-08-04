@@ -1,5 +1,5 @@
 # fun
-## This is the Readme file for the FUN repository. 
+## This is the Readme file for the FUN repository
 ---
 **Looking forward to play around here**
 
