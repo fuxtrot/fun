@@ -8,6 +8,5 @@ Displaying fun testcode 1234 in this readme.
 Looks like it works just fine. 
 ```
 
-Cheers,
-
+Cheers,  
 Seb
