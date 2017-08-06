@@ -13,3 +13,4 @@ This readme can also be reached via fun.seb [link](http://seb.fun)
 
 Cheers,  
 Seb
+mail@seb.fun
