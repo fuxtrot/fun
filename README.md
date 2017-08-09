@@ -9,7 +9,7 @@ Displaying fun testcode 1234 in this readme
 Looks like it works just fine
 ```
 
-This readme can also be reached via fun.seb [link](http://seb.fun) 
+This readme can also be reached via seb.fun [link](http://seb.fun) 
 
 Cheers,  
 Seb
